@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I am a Integration Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197510.png" width="13"/> <b>Botswana</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197430.png" width="13"/> <b>Canada</b>. </p>
+
+
 <!--
 **tshenolo/tshenolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
