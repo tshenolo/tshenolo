@@ -2,6 +2,10 @@
 
 I am a Integration Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197510.png" width="13"/> <b>Botswana</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197430.png" width="13"/> <b>Canada</b>. </p>
 
+<p align="left"> <a href="https://twitter.com/tshenolo" target="blank"><img src="https://img.shields.io/twitter/follow/tshenolo?logo=twitter&style=for-the-badge" alt="tshenolo" /></a> </p>
+
+
+
 
 <!--
 **tshenolo/tshenolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
