@@ -1,9 +1,11 @@
 ####  👋 Hi there, I'm Tshenolo Mos
 
-- 🔭 Integration Developer focusing on <img src="https://img.shields.io/badge/PeopleSoft-ERP-blue" alt="PeopleSoft ERP" /> and <img src="https://img.shields.io/badge/Fusion-OSB-red" alt="Fusion OSB" />
+- 😄 Pronouns: He/Him
+- 🔭 I am a Integration Developer focusing on <img src="https://img.shields.io/badge/PeopleSoft-ERP-blue" alt="PeopleSoft ERP" /> and <img src="https://img.shields.io/badge/Fusion-OSB-red" alt="Fusion OSB" />
 - 😄 Currently learning **everything**
 - 👨‍💻 All of my projects are available at [https://tshenolo.me/projects](https://tshenolo.me/projects)
 - 📝 I regularly write articles on [https://tshenolo.me/blog](https://tshenolo.me/blog)
+- 📫 How to reach me: [https://tshenolo.me/message](https://tshenolo.me/message)
 
 #### 👨 Let's Connect
 <a href="https://www.linkedin.com/in/tshenolo/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="tshenolo" /></a>
@@ -38,7 +40,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 📫 How to reach me: [https://tshenolo.me/message](https://tshenolo.me/message)
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 -->
