@@ -6,6 +6,7 @@
 - 👨‍💻 All of my projects are available at [https://tshenolo.me/projects](https://tshenolo.me/projects)
 - 📝 I regularly write articles on [https://tshenolo.me/blog](https://tshenolo.me/blog)
 - 📫 How to reach me: [https://tshenolo.me/message](https://tshenolo.me/message)
+- 🚀 Check out my Vlog [https://www.youtube.com/@tshenolo](https://www.youtube.com/@tshenolo)
 
 #### 👨 Let's Connect
 <a href="https://www.linkedin.com/in/tshenolo/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="tshenolo" /></a>
