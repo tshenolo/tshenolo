@@ -24,10 +24,32 @@ Technologies and tools I have experience with and am passionate about.
 |   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="80"/> </a>     |  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="80" height="80"/> </a>    |   <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="80" height="80"/> </a>     |   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="80" height="80"/> </a>    |   <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="80" height="80"/> </a>     |    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="80" height="80"/> </a>    |   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="80" height="80"/> </a>    |
 |   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80" height="80"/> </a>    |   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="80" height="80"/> </a>    |    <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="80" height="80"/> </a>   |   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="80" height="80"/> </a>    |   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="80" height="80"/> </a>    |    <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="80" height="80"/> </a>    |    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="80" height="80"/> </a> </p>   |
 
+#### Projects
+Here's a selection of projects that I have worked on over the years.
 
+##### PeopleSoft
+[Query Search](https://tshenolo.gumroad.com/l/peoplesoft-query-search):  PeopleSoft utility designed to search for specific text in all PS Queries within PeopleSoft and identify which PS Queries contains that text.     
+[Base 64 Encode/Decode](https://github.com/tshenolo/peoplesoft-base64): PeopleSoft utility to perform base64 encoding or decoding in PeopleCode using PeopleSoft's Pluggable Cryptography Technology (PET) in combination with the PeopleCode Crypt Class.       
+[List/Download Files](https://tshenolo.gumroad.com/l/peoplesoft-file-list): PeopleSoft utility to list files and download files.     
+[File Manager](https://tshenolo.gumroad.com/l/peoplesoft-file-manager): PeopleSoft utility to navigate the PeopleSoft file system. It allows users to view contents of folders and download files.     
+[File Stream](https://github.com/tshenolo/peoplesoft-file-stream): PeopleSoft utility to stream files directly to the PeopleSoft file system.     
+[File Upload](https://tshenolo.gumroad.com/l/peoplesoft-file-upload): PeopleSoft utility to upload files from your computer to a specific folder on a PeopleSoft server.    
+[Environment Variables](https://github.com/tshenolo/peoplesoft-env-variable): PeopleSoft utility to get environment variables defined within a PeopleSoft server.     
+[PeopleSoft Component Navigation](https://tshenolo.gumroad.com/l/peoplesoft-component-nav): PeopleSoft utility to get the navigation from the name of a PeopleSoft Component.     
+[PeopleSoft Process Navigation](https://tshenolo.gumroad.com/l/peoplesoft-process-nav): PeopleSoft utility to get the navigation from the name of a PeopleSoft process.    
+[PS Query SQL](https://tshenolo.gumroad.com/l/peoplesoft-query-sql): PeopleSoft utility to get the SQL of a PeopleSoft PS Query.     
+[Record Fields](https://github.com/tshenolo/peoplesoft-record-field): PeopleSoft utility to get record fields.     
+[PeopleSoft User Look-Up](https://github.com/tshenolo/peoplesoft-user-lookup): PeopleSoft utility to look up a user.     
 
-
-
+##### WordPress
+[High Ridge School](https://www.highridgeschool.com/): Highridge English Medium Primary School is a private school offering excellent educational experience for students.  
+[Black Eagle Loans](https://www.highridgeschool.com/): Black Eagle Loans is a Botswana based micro-lending company which offers short term and long term loans to clients.  
+[Borgadie](http://borgadie.com/): Bogadi is an image consultant, fashion stylist and qualified makeup artist.     
+[Keiko Network](https://keikonetwork.com/): Keikonetwork is an Event Management and IT Consulting agency   
+  
+##### CakePHP
+[NALCGPMWU](https://tshenolo.me/projects.html): National Amalgamated local and Cetral Government, Parastatal Workers Union.  
+[Black Eagle Loans](https://www.highridgeschool.com/): Black Eagle Loans is a Botswana based micro-lending company which offers short term and long term loans to clients. 
 
  #### 🤝 Support
 <p><a href="https://www.buymeacoffee.com/tshenolo"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tshenolo" /></a></p><br><br>
