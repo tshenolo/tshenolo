@@ -43,13 +43,10 @@ Here's a selection of projects that I have worked on over the years.
 
 ##### WordPress
 [High Ridge School](https://www.highridgeschool.com/): Highridge English Medium Primary School is a private school offering excellent educational experience for students.  
-[Black Eagle Loans](https://www.highridgeschool.com/): Black Eagle Loans is a Botswana based micro-lending company which offers short term and long term loans to clients.  
+[Black Eagle Loans](https://blackeagleloans.com/): Black Eagle Loans is a Botswana based micro-lending company which offers short term and long term loans to clients.  
 [Borgadie](http://borgadie.com/): Bogadi is an image consultant, fashion stylist and qualified makeup artist.     
 [Keiko Network](https://keikonetwork.com/): Keikonetwork is an Event Management and IT Consulting agency   
-  
-##### CakePHP
-[NALCGPMWU](https://tshenolo.me/projects.html): National Amalgamated local and Cetral Government, Parastatal Workers Union.  
-[Black Eagle Loans](https://www.highridgeschool.com/): Black Eagle Loans is a Botswana based micro-lending company which offers short term and long term loans to clients. 
+   
 
  #### 🤝 Support
 <p><a href="https://www.buymeacoffee.com/tshenolo"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tshenolo" /></a></p><br><br>
