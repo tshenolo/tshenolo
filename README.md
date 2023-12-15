@@ -5,7 +5,7 @@
 - 😄 Currently learning **everything**
 - 👨‍💻 All of my projects are available at [https://tshenolo.me/projects](https://tshenolo.me/projects)
 - 📝 I regularly write articles on [https://tshenolo.me/blog](https://tshenolo.me/blog)
-- 📫 How to reach me: [https://tshenolo.me/](https://tshenolo.me/)
+- 📫 How to reach me: [https://tshenolo.me/](https://tshenolo.me/) 
 - 🚀 Check out my Vlog [https://www.youtube.com/@tshenolo](https://www.youtube.com/@tshenolo)
 - 🧰 Tools I have built [https://tshenolo.me/tools.html](https://tshenolo.me/tools.html)
 
