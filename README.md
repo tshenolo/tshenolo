@@ -8,7 +8,7 @@
 - 📫 How to reach me: [https://tshenolo.me/](https://tshenolo.me/) 
 - 🚀 Check out my Vlog [https://www.youtube.com/@tshenolo](https://www.youtube.com/@tshenolo)
 - 🧰 Tools I have built [https://tshenolo.me/tools.html](https://tshenolo.me/tools.html)
-- 🛠️ Let's build something together [https://tshenolo.com/startproject](https://tshenolo.com/startproject)
+- 🛠️ Let's build something together [https://tshenolo.me/startproject](https://tshenolo.me/startproject)
 
 #### 👨 Let's Connect
 <a href="https://www.linkedin.com/in/tshenolo/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="tshenolo" /></a>
