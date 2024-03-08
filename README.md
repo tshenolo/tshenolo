@@ -4,10 +4,11 @@
 - 🔭 I am a Integration Developer focusing on <img src="https://img.shields.io/badge/PeopleSoft-ERP-blue" alt="PeopleSoft ERP" /> and <img src="https://img.shields.io/badge/Fusion-OSB-red" alt="Fusion OSB" />
 - 😄 Currently learning **everything**
 - 👨‍💻 All of my projects are available at [https://tshenolo.me/projects](https://tshenolo.me/projects)
-- 📝 I regularly write articles on [https://tshenolo.me/blog](https://tshenolo.me/blog)
+- 📝 I regularly write articles and guides at [https://tshenolo.me/guides](https://tshenolo.me/guides)
 - 📫 How to reach me: [https://tshenolo.me/](https://tshenolo.me/) 
 - 🚀 Check out my Vlog [https://www.youtube.com/@tshenolo](https://www.youtube.com/@tshenolo)
 - 🧰 Tools I have built [https://tshenolo.me/tools.html](https://tshenolo.me/tools.html)
+- 🛠️ Let's build something together [https://tshenolo.com/startproject](https://tshenolo.com/startproject)
 
 #### 👨 Let's Connect
 <a href="https://www.linkedin.com/in/tshenolo/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="tshenolo" /></a>
