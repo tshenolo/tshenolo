@@ -4,7 +4,7 @@
 - 🔭 I am a Integration Developer focusing on <img src="https://img.shields.io/badge/PeopleSoft-ERP-blue" alt="PeopleSoft ERP" /> and <img src="https://img.shields.io/badge/Fusion-OSB-red" alt="Fusion OSB" />
 - 😄 Currently learning **everything**
 - 👨‍💻 All of my projects are available at [https://tshenolo.me/projects](https://tshenolo.me/projects)
-- 📝 I regularly write articles and guides at [https://tshenolo.me/guides](https://tshenolo.me/guides)
+- 📝 I regularly write articles and guides at [https://tshenolo.me/guides](https://tshenolo.me/)
 - 📫 How to reach me: [https://tshenolo.me/](https://tshenolo.me/) 
 - 🚀 Check out my Vlog [https://www.youtube.com/@tshenolo](https://www.youtube.com/@tshenolo)
 - 🧰 Tools I have built [https://tshenolo.me/tools.html](https://tshenolo.me/tools.html)
