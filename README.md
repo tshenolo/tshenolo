@@ -1,31 +1,48 @@
-####  👋 Hi there, I'm Tshenolo Mos
+#### 👋 Hi there, I'm Tshenolo Mos
+
+I'm passionate about integrating systems and making tech more accessible!   
+Fun fact: I recently worked on a project that automated data transfers between systems, saving hours of manual work each week.  
 
 - 😄 Pronouns: He/Him
-- 🔭 I am a Integration Developer focusing on <img src="https://img.shields.io/badge/PeopleSoft-ERP-blue" alt="PeopleSoft ERP" /> and <img src="https://img.shields.io/badge/Fusion-OSB-red" alt="Fusion OSB" />
+- 🔭 I am an Integration Developer focusing on PeopleSoft ERP and Fusion OSB
 - 😄 Currently learning **everything**
-- 👨‍💻 All of my projects are available at [https://tshenolo.me/projects.html](https://tshenolo.me/projects.html)
-- 📝 I regularly write articles and guides at [https://tshenolo.me/guides](https://tshenolo.me/)
-- 📫 How to reach me: [https://tshenolo.me/](https://tshenolo.me/) 
+- 🦖 Explore my latest projects here: [https://tshenolo.me/projects.html](https://tshenolo.me/projects.html)
+- 🗑️ I regularly write articles and guides at [https://tshenolo.me/guides](https://tshenolo.me/)
+- 🛡️ How to reach me: [https://tshenolo.me/](https://tshenolo.me/)
 - 🚀 Check out my Vlog [https://www.youtube.com/@tshenolo](https://www.youtube.com/@tshenolo)
-- 🧰 Tools I have built [https://tshenolo.me/tools.html](https://tshenolo.me/tools.html)
+- 🧑‍🔧 Tools I have built [https://tshenolo.me/tools.html](https://tshenolo.me/tools.html)
 - 🛠️ Let's build something together [https://tshenolo.me/startproject](https://tshenolo.me/startproject)
 
-#### 👨 Let's Connect
+#### 👨 Let's Connect  
+Feel free to connect with me on social media!  
+
 <a href="https://www.linkedin.com/in/tshenolo/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="tshenolo" /></a>
 <a href="https://twitter.com/tshenolo" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="tshenolo" /></a>
 <a href="https://www.instagram.com/tshenolo/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="tshenolo" /></a>
 <a href="https://www.youtube.com/@tshenolo"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 
-#### 🚀 Languages and Tools
-Technologies and tools I have experience with and am passionate about.
+#### 🚀 Languages and Tools  
+Technologies and tools I have experience with and am passionate about.  
 
-|  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="80" height="80"/> </a>     |   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="80" height="80"/> </a>    |   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="80" height="80"/> </a>     |   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="80" height="80"/> </a>     |   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="80" height="80"/> </a>     |   <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="80" height="80"/> </a>     |   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" height="80"/> </a>     |
+##### Frontend Technologies
+| <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="80" height="80"/> </a> | <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="80" height="80"/> </a> | <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" height="80"/> </a> | <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="80" height="80"/> </a> | <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="80" height="80"/> </a> | <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="80"/> </a> | <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="80" height="80"/> </a> |
 |-------|-------|-------|-------|-------|-------|-------|
-|  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="80" height="80"/> </a>      |   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="80" height="80"/> </a>     |   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="80" height="80"/> </a>     |   <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="80" height="80"/> </a>     |   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="80" height="80"/> </a>     |   <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="80" height="80"/> </a>     |    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="80" height="80"/> </a>    |
-|   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="80"/> </a>     |  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="80" height="80"/> </a>    |   <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="80" height="80"/> </a>     |   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="80" height="80"/> </a>    |   <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="80" height="80"/> </a>     |    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="80" height="80"/> </a>    |   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="80" height="80"/> </a>    |
-|   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80" height="80"/> </a>    |   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="80" height="80"/> </a>    |    <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="80" height="80"/> </a>   |   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="80" height="80"/> </a>    |   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="80" height="80"/> </a>    |    <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="80" height="80"/> </a>    |    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="80" height="80"/> </a> </p>   |
+
+##### Backend Technologies
+| <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="80" height="80"/> </a> | <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="80" height="80"/> </a> | <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="80" height="80"/> </a> | <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="80" height="80"/> </a> | <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="80" height="80"/> </a> |
+|-------|-------|-------|-------|-------|
+
+##### DevOps Tools
+| <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="80" height="80"/> </a> | <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="80" height="80"/> </a> | <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="80" height="80"/> </a> | <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="80" height="80"/> </a> | <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="80" height="80"/> </a> | <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="80" height="80"/> </a> | <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="80" height="80"/> </a> | <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="80" height="80"/> </a> | <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="80" height="80"/> </a> |
+|-------|-------|-------|-------|-------|-------|-------|-------|-------|
+
+##### Databases
+| <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="80" height="80"/> </a> | <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80" height="80"/> </a> | <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="80" height="80"/> </a> | <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="80" height="80"/> </a> | <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="80" height="80"/> </a> |
+|-------|-------|-------|-------|-------|
 
 #### 📺 Latest YouTube Videos
+
+Here are some of my latest videos where I share tech tips and tutorials.
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Can You Import a CSV File into PeopleSoft in Under 4 Minutes?](https://ytcards.demolab.com/?id=gYuEIJgnwPQ&title=Can+You+Import+a+CSV+File+into+PeopleSoft+in+Under+4+Minutes%3F&lang=en&timestamp=1729306407&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Can You Import a CSV File into PeopleSoft in Under 4 Minutes?")](https://www.youtube.com/watch?v=gYuEIJgnwPQ)
 [![Export & Import data with PeopleSoft Data Mover in 30 seconds](https://ytcards.demolab.com/?id=4tdc11B1jDs&title=Export+%26+Import+data+with+PeopleSoft+Data+Mover+in+30+seconds&lang=en&timestamp=1728795137&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Export & Import data with PeopleSoft Data Mover in 30 seconds")](https://www.youtube.com/watch?v=4tdc11B1jDs)
@@ -36,10 +53,10 @@ Technologies and tools I have experience with and am passionate about.
 <!-- END YOUTUBE-CARDS -->
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@tshenolo?sub_confirmation=1)
 
-#### Projects
-Here's a selection of projects that I have worked on over the years.
+#### 🚀 Projects
+Here's a selection of projects that I have worked on over the years, grouped by category.
 
-##### PeopleSoft
+##### PeopleSoft Projects
 [Query Search](https://tshenolo.gumroad.com/l/peoplesoft-query-search):  PeopleSoft utility designed to search for specific text in all PS Queries within PeopleSoft and identify which PS Queries contains that text.     
 [Base 64 Encode/Decode](https://github.com/tshenolo/peoplesoft-base64): PeopleSoft utility to perform base64 encoding or decoding in PeopleCode using PeopleSoft's Pluggable Cryptography Technology (PET) in combination with the PeopleCode Crypt Class.       
 [List/Download Files](https://tshenolo.gumroad.com/l/peoplesoft-file-list): PeopleSoft utility to list files and download files.     
@@ -53,19 +70,17 @@ Here's a selection of projects that I have worked on over the years.
 [Record Fields](https://github.com/tshenolo/peoplesoft-record-field): PeopleSoft utility to get record fields.     
 [PeopleSoft User Look-Up](https://github.com/tshenolo/peoplesoft-user-lookup): PeopleSoft utility to look up a user.     
 
-<!--
-##### WordPress
-[High Ridge School](https://www.highridgeschool.com/): Highridge English Medium Primary School is a private school offering excellent educational experience for students.  
-[Black Eagle Loans](https://blackeagleloans.com/): Black Eagle Loans is a Botswana based micro-lending company which offers short term and long term loans to clients.  
-[Borgadie](http://borgadie.com/): Bogadi is an image consultant, fashion stylist and qualified makeup artist.     
-[Keiko Network](https://keikonetwork.com/): Keikonetwork is an Event Management and IT Consulting agency   
--->   
+#### 🤝 Support
 
- #### 🤝 Support
-<p><a href="https://www.buymeacoffee.com/tshenolo"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tshenolo" /></a></p><br><br>
-<p>&nbsp;</p>
+Your support helps me create more valuable content!
+<p><a href="https://www.buymeacoffee.com/tshenolo"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tshenolo" /></a></p><br><br></p>
+
+#### 📊 GitHub Stats
+
+I love tracking my progress and contributions. Here are some of my GitHub stats to show my recent work!
+
 <details>
-  <summary> 🏆 Github Stats</summary>
+  <summary> 🌟 Github Stats</summary>
  
  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tshenolo&show_icons=true&locale=en&layout=compact" alt="tshenolo" /></p>
 
@@ -75,17 +90,3 @@ Here's a selection of projects that I have worked on over the years.
  
   </details>
 
-<!--
-**tshenolo/tshenolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: [https://tshenolo.me/message](https://tshenolo.me/message)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
--->
