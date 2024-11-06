@@ -1,7 +1,6 @@
 #### 👋 Hi there, I'm Tshenolo Mos
 
-I'm passionate about integrating systems and making tech more accessible!   
-Fun fact: I recently worked on a project that automated data transfers between systems, saving hours of manual work each week.  
+I'm passionate about integrating systems and making tech more accessible!    
 
 - 😄 Pronouns: He/Him
 - 🔭 I am an Integration Developer focusing on PeopleSoft ERP and Fusion OSB
