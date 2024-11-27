@@ -5,7 +5,7 @@ Integration Developer Sharing Knowledge Through Code, Blogs, and YouTube Videos.
 - ♂️ Pronouns: He/Him
 - 🎓 Currently learning **everything**
 - 🚀 Explore my latest projects here: [https://tshenolo.me/projects.html](https://tshenolo.me/projects.html)
-- 🗑️ I regularly write articles and guides at [https://tshenolo.me](https://tshenolo.me/)
+- 📝 I regularly write articles and guides at [https://tshenolo.me](https://tshenolo.me/)
 - ✉️ How to reach me: [hello@tshenolo.me](mailto:hello@tshenolo.me)
 - 📺 Check out my Vlog [https://www.youtube.com/@tshenolo](https://www.youtube.com/@tshenolo)
 - 🛠️ Let's build something together [https://tshenolo.me/startproject](https://tshenolo.me/startproject)
