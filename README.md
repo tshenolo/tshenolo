@@ -13,13 +13,22 @@ Integration Developer Sharing Knowledge Through Code, Blogs, and YouTube Videos.
 #### 👨 Let's Connect  
 Feel free to connect with me on social media!  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tshenolo/)
+<a href="https://www.linkedin.com/in/tshenolo/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-[![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/tshenolo)
+<a href="https://x.com/tshenolo">
+<img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x" />
+</a>
 
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tshenolo/)
+<a href="https://www.instagram.com/tshenolo/">
+<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@tshenolo)
+<a href="https://www.youtube.com/@tshenolo">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+
 
 <details>
 <summary> 🤖 Technology Stack </summary>  
