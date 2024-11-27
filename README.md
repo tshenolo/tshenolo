@@ -20,8 +20,8 @@ Feel free to connect with me on social media!
 <a href="https://www.instagram.com/tshenolo/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="tshenolo" /></a>
 <a href="https://www.youtube.com/@tshenolo"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 
-#### 🚀 Languages and Tools  
-Technologies and tools I have experience with and am passionate about.  
+<details>
+<summary> 🚀 Technology Stack </summary>  
 
 ##### Frontend Technologies
 | <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="80" height="80"/> </a> | <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="80" height="80"/> </a> | <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" height="80"/> </a> | <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="80" height="80"/> </a> | <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="80" height="80"/> </a> | <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="80"/> </a> | <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="80" height="80"/> </a> |
@@ -39,7 +39,10 @@ Technologies and tools I have experience with and am passionate about.
 | <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="80" height="80"/> </a> | <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80" height="80"/> </a> | <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="80" height="80"/> </a> | <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="80" height="80"/> </a> | <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="80" height="80"/> </a> |
 |-------|-------|-------|-------|-------|
 
-#### 📺 Latest YouTube Videos
+</details>
+
+<details>
+<summary> 📺 VLog (YouTube) </summary>
 
 Here are some of my latest videos where I share tech tips and tutorials.
 <!-- BEGIN YOUTUBE-CARDS -->
@@ -52,7 +55,11 @@ Here are some of my latest videos where I share tech tips and tutorials.
 <!-- END YOUTUBE-CARDS -->
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@tshenolo?sub_confirmation=1)
 
-#### 🚀 Projects
+</details>
+
+<details>
+<summary> 🚀 Projects </summary>
+
 Here's a selection of projects that I have worked on over the years, grouped by category.
 
 ##### PeopleSoft Projects
@@ -67,19 +74,12 @@ Here's a selection of projects that I have worked on over the years, grouped by 
 [PeopleSoft Process Navigation](https://tshenolo.gumroad.com/l/peoplesoft-process-nav): PeopleSoft utility to get the navigation from the name of a PeopleSoft process.    
 [PS Query SQL](https://tshenolo.gumroad.com/l/peoplesoft-query-sql): PeopleSoft utility to get the SQL of a PeopleSoft PS Query.     
 [Record Fields](https://github.com/tshenolo/peoplesoft-record-field): PeopleSoft utility to get record fields.     
-[PeopleSoft User Look-Up](https://github.com/tshenolo/peoplesoft-user-lookup): PeopleSoft utility to look up a user.     
+[PeopleSoft User Look-Up](https://github.com/tshenolo/peoplesoft-user-lookup): PeopleSoft utility to look up a user.  
 
-#### 🤝 Support
-
-Your support helps me create more valuable content!
-<p><a href="https://www.buymeacoffee.com/tshenolo"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tshenolo" /></a></p><br><br></p>
-
-#### 📊 GitHub Stats
-
-I love tracking my progress and contributions. Here are some of my GitHub stats to show my recent work!
+</details>
 
 <details>
-  <summary> 🌟 Github Stats</summary>
+<summary> 📊 GitHub Stats</summary>
  
  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tshenolo&show_icons=true&locale=en&layout=compact" alt="tshenolo" /></p>
 
@@ -87,5 +87,10 @@ I love tracking my progress and contributions. Here are some of my GitHub stats 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tshenolo&" alt="tshenolo" /></p>
  
-  </details>
+</details>
+
+#### 🤝 Support
+
+Your support helps me create more valuable content!
+<p><a href="https://www.buymeacoffee.com/tshenolo"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tshenolo" /></a></p><br><br></p>
 
