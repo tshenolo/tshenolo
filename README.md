@@ -18,7 +18,7 @@ Feel free to connect with me on social media!
 <a href="https://www.instagram.com/tshenolo/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="tshenolo" /></a>
 <a href="https://www.youtube.com/@tshenolo"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 <a href="mailto:hello@tshenolo.me">
-<img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=mail&logoColor=black">
+<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=mail&logoColor=white">
 </a>
 
 <details>
