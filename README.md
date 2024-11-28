@@ -56,23 +56,70 @@ Here are some of my latest videos where I share tech tips and tutorials.
 </details>
 
 <details>
-<summary> 🚀 Projects </summary>
+<summary> 🚀 Projects/Tools </summary>
 
 Here's a selection of projects that I have worked on over the years, grouped by category.
 
-##### PeopleSoft Projects
-[Query Search](https://tshenolo.gumroad.com/l/peoplesoft-query-search):  PeopleSoft utility designed to search for specific text in all PS Queries within PeopleSoft and identify which PS Queries contains that text.     
-[Base 64 Encode/Decode](https://github.com/tshenolo/peoplesoft-base64): PeopleSoft utility to perform base64 encoding or decoding in PeopleCode using PeopleSoft's Pluggable Cryptography Technology (PET) in combination with the PeopleCode Crypt Class.       
-[List/Download Files](https://tshenolo.gumroad.com/l/peoplesoft-file-list): PeopleSoft utility to list files and download files.     
-[File Manager](https://tshenolo.gumroad.com/l/peoplesoft-file-manager): PeopleSoft utility to navigate the PeopleSoft file system. It allows users to view contents of folders and download files.     
-[File Stream](https://github.com/tshenolo/peoplesoft-file-stream): PeopleSoft utility to stream files directly to the PeopleSoft file system.     
-[File Upload](https://tshenolo.gumroad.com/l/peoplesoft-file-upload): PeopleSoft utility to upload files from your computer to a specific folder on a PeopleSoft server.    
-[Environment Variables](https://github.com/tshenolo/peoplesoft-env-variable): PeopleSoft utility to get environment variables defined within a PeopleSoft server.     
-[PeopleSoft Component Navigation](https://tshenolo.gumroad.com/l/peoplesoft-component-nav): PeopleSoft utility to get the navigation from the name of a PeopleSoft Component.     
-[PeopleSoft Process Navigation](https://tshenolo.gumroad.com/l/peoplesoft-process-nav): PeopleSoft utility to get the navigation from the name of a PeopleSoft process.    
-[PS Query SQL](https://tshenolo.gumroad.com/l/peoplesoft-query-sql): PeopleSoft utility to get the SQL of a PeopleSoft PS Query.     
-[Record Fields](https://github.com/tshenolo/peoplesoft-record-field): PeopleSoft utility to get record fields.     
-[PeopleSoft User Look-Up](https://github.com/tshenolo/peoplesoft-user-lookup): PeopleSoft utility to look up a user.  
+##### PYTHON
+- [Flask WebP to PNG](https://github.com/tshenolo/flask-webp-to-png)
+- [Flask PDF Merger](https://github.com/tshenolo/flask-pdf-merger)
+- [Flask PDF Splitter](https://github.com/tshenolo/flask-pdf-splitter)
+- [Image to Text Converter](https://github.com/tshenolo/image-to-text-converter)
+- [Flask Chrome Icon](https://github.com/tshenolo/flask-chrome-icon)
+- [Flask XML Pretty](https://github.com/tshenolo/flask-xml-pretty)
+- [Flask JSON Pretty](https://github.com/tshenolo/flask-json-pretty)
+- [Flask CSV to MD](https://github.com/tshenolo/flask-csv-to-md)
+- [Flask HTML to Excel](https://github.com/tshenolo/flask-html-to-excel)
+- [Flask CSV to JSON](https://github.com/tshenolo/flask-csv-to-json)
+- [Rembg Web App](https://github.com/tshenolo/rembg-webapp)
+
+##### PEOPLESOFT
+- [Query Search](https://tshenolo.gumroad.com/l/peoplesoft-query-search)
+- [Base 64 Encode/Decode](https://github.com/tshenolo/peoplesoft-base64)      
+- [List/Download Files](https://tshenolo.gumroad.com/l/peoplesoft-file-list) 
+- [File Manager](https://tshenolo.gumroad.com/l/peoplesoft-file-manager)     
+- [File Stream](https://github.com/tshenolo/peoplesoft-file-stream)     
+- [File Upload](https://tshenolo.gumroad.com/l/peoplesoft-file-upload)   
+- [Environment Variables](https://github.com/tshenolo/peoplesoft-env-variable)     
+- [PeopleSoft Component Navigation](https://tshenolo.gumroad.com/l/peoplesoft-component-nav)     
+- [PeopleSoft Process Navigation](https://tshenolo.gumroad.com/l/peoplesoft-process-nav)    
+- [PS Query SQL](https://tshenolo.gumroad.com/l/peoplesoft-query-sql)     
+- [Record Fields](https://github.com/tshenolo/peoplesoft-record-field)     
+- [PeopleSoft User Look-Up](https://github.com/tshenolo/peoplesoft-user-lookup) 
+
+##### PHP
+- [Document Converter](https://github.com/tshenolo/document-converter)
+
+##### HTML/JAVASCRIPT
+- [HTML String Functions](https://github.com/tshenolo/html-stringfunctions)
+
+##### CHROME
+- [Chrome Archive This](https://github.com/tshenolo/chrome-archive-this)
+ 
+
+</details>
+
+<details>
+<summary> 📝 Articles/Guides </summary>
+
+- [Introduction to Docker Compose](https://medium.com/@tshenolomos/introduction-to-docker-compose-32c86a7b4883)
+- [How to Import a CSV File into PeopleSoft Database Using a File Layout](https://medium.com/@tshenolomos/how-to-import-a-csv-file-into-peoplesoft-database-using-a-file-layout-b83c359e884b)
+- [How to Export and Import Data in PeopleSoft Using Data Mover](https://medium.com/@tshenolomos/how-to-export-and-import-data-in-peoplesoft-using-data-mover-aad9cd94fd06)
+- [How to Debug a Docker Container](https://medium.com/@tshenolomos/how-to-debug-a-docker-container-574d016434bf)
+- [Deploying Applications with Docker](https://medium.com/@tshenolomos/deploying-applications-with-docker-c8059ea79850)
+- [How to Write a Dockerfile in Easy Steps](https://medium.com/@tshenolomos/how-to-write-a-dockerfile-in-easy-steps-5a462d42e844)
+- [How to Run a Docker Container in 30 Seconds](https://medium.com/@tshenolomos/how-to-run-a-docker-container-in-30-seconds-57679ff5a2d4)
+- [Top 5 Docker Commands Every Developer Should Know](https://medium.com/@tshenolomos/top-5-docker-commands-every-developer-should-know-a3c891d022ff)
+- [How to Start Contributing to Open Source Software](https://medium.com/@tshenolomos/how-to-start-contributing-to-open-source-software-b5825134eadf)
+- [Convert PeopleSoft Query Results to JSON Easily](https://medium.com/@tshenolomos/convert-peoplesoft-query-results-to-json-easily-e2bcad9ef123)
+- [How to Create Content Reference to a PS Query in PeopleSoft](https://medium.com/@tshenolomos/how-to-create-content-reference-to-a-ps-query-in-peoplesoft-04ddadd3d3d6)
+- [Set Up Your Favorite Database Using Docker](https://medium.com/@tshenolomos/set-up-your-favorite-database-using-docker-ba1081ea07d0)
+- [How I Log into My Server Without a Password Using an SSH Key](https://medium.com/@tshenolomos/how-i-log-into-my-server-without-a-password-using-an-ssh-key-9b97db501d62)
+- [Secure Apache with SSL in Docker](https://medium.com/@tshenolomos/secure-apache-with-ssl-in-docker-9efd86329129)
+- [Exporting Data from a Dockerized Oracle Database Using Bash Script](https://medium.com/@tshenolomos/exporting-data-from-a-dockerized-oracle-database-using-bash-script-a2c02edc7b61)
+- [Automating SFTP Operations Using Bash](https://medium.com/@tshenolomos/automating-sftp-operations-using-bash-0eb8c9035b0a)
+- [Guide to Creating an SFTP Server with Docker Using SSH Key](https://medium.com/@tshenolomos/guide-to-creating-an-sftp-server-with-docker-using-ssh-key-ce9bddb77f39)
+
 
 </details>
 
