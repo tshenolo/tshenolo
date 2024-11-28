@@ -71,7 +71,6 @@ Here's a selection of projects that I have worked on over the years, grouped by 
 - [Flask CSV to MD](https://github.com/tshenolo/flask-csv-to-md)
 - [Flask HTML to Excel](https://github.com/tshenolo/flask-html-to-excel)
 - [Flask CSV to JSON](https://github.com/tshenolo/flask-csv-to-json)
-- [Rembg Web App](https://github.com/tshenolo/rembg-webapp)
 
 ##### PEOPLESOFT
 - [Query Search](https://tshenolo.gumroad.com/l/peoplesoft-query-search)
