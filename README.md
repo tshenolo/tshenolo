@@ -4,10 +4,11 @@ Integration Developer Sharing Knowledge Through Code, Blogs, and YouTube Videos.
 
 - ♂️ Pronouns: He/Him
 - 🎓 Currently learning **everything**
-- 🚀 Explore my latest projects here: [https://tshenolo.me/projects.html](https://tshenolo.me/projects.html)
-- 📝 I regularly write articles and guides at [https://tshenolo.me](https://tshenolo.me/)
+- 💬 Ask me about anything
 - ✉️ How to reach me: [hello@tshenolo.me](mailto:hello@tshenolo.me)
 - 📺 Check out my Vlog [https://www.youtube.com/@tshenolo](https://www.youtube.com/@tshenolo)
+- 🚀 Explore my latest projects here: [https://tshenolo.me/projects.html](https://tshenolo.me/projects.html)
+- 📝 I regularly write articles and guides at [https://tshenolo.me](https://tshenolo.me/)
 - 🛠️ Let's build something together [https://tshenolo.me/startproject](https://tshenolo.me/startproject)
 
 #### 👨 Let's Connect  
@@ -61,40 +62,44 @@ Here are some of my latest videos where I share tech tips and tutorials.
 Here's a selection of projects that I have worked on over the years, grouped by category.
 
 ##### PYTHON
-- [Flask WebP to PNG](https://github.com/tshenolo/flask-webp-to-png)
-- [Flask PDF Merger](https://github.com/tshenolo/flask-pdf-merger)
-- [Flask PDF Splitter](https://github.com/tshenolo/flask-pdf-splitter)
-- [Image to Text Converter](https://github.com/tshenolo/image-to-text-converter)
-- [Flask Chrome Icon](https://github.com/tshenolo/flask-chrome-icon)
-- [Flask XML Pretty](https://github.com/tshenolo/flask-xml-pretty)
-- [Flask JSON Pretty](https://github.com/tshenolo/flask-json-pretty)
-- [Flask CSV to MD](https://github.com/tshenolo/flask-csv-to-md)
-- [Flask HTML to Excel](https://github.com/tshenolo/flask-html-to-excel)
-- [Flask CSV to JSON](https://github.com/tshenolo/flask-csv-to-json)
+| [Flask WebP to PNG](https://github.com/tshenolo/flask-webp-to-png)               | Converts WebP images to PNG format.           |
+| [Flask PDF Merger](https://github.com/tshenolo/flask-pdf-merger)                 | Merges multiple PDF files into one.           |
+| [Flask PDF Splitter](https://github.com/tshenolo/flask-pdf-splitter)             | Splits PDF files into separate pages.         |
+| [Image to Text Converter](https://github.com/tshenolo/image-to-text-converter)   | Extracts text from image files.               |
+| [Flask Chrome Icon](https://github.com/tshenolo/flask-chrome-icon)               | Generates Chrome icons for web applications.  |
+| [Flask XML Pretty](https://github.com/tshenolo/flask-xml-pretty)                 | Formats and prettifies XML data.              |
+| [Flask JSON Pretty](https://github.com/tshenolo/flask-json-pretty)               | Formats and prettifies JSON data.             |
+| [Flask CSV to MD](https://github.com/tshenolo/flask-csv-to-md)                   | Converts CSV data to Markdown format.         |
+| [Flask HTML to Excel](https://github.com/tshenolo/flask-html-to-excel)           | Converts HTML tables to Excel format.         |
+| [Flask CSV to JSON](https://github.com/tshenolo/flask-csv-to-json)               | Converts CSV data to JSON format.             |
+
 
 ##### PEOPLESOFT
-- [Query Search](https://tshenolo.gumroad.com/l/peoplesoft-query-search)
-- [Base 64 Encode/Decode](https://github.com/tshenolo/peoplesoft-base64)      
-- [List/Download Files](https://tshenolo.gumroad.com/l/peoplesoft-file-list) 
-- [File Manager](https://tshenolo.gumroad.com/l/peoplesoft-file-manager)     
-- [File Stream](https://github.com/tshenolo/peoplesoft-file-stream)     
-- [File Upload](https://tshenolo.gumroad.com/l/peoplesoft-file-upload)   
-- [Environment Variables](https://github.com/tshenolo/peoplesoft-env-variable)     
-- [PeopleSoft Component Navigation](https://tshenolo.gumroad.com/l/peoplesoft-component-nav)     
-- [PeopleSoft Process Navigation](https://tshenolo.gumroad.com/l/peoplesoft-process-nav)    
-- [PS Query SQL](https://tshenolo.gumroad.com/l/peoplesoft-query-sql)     
-- [Record Fields](https://github.com/tshenolo/peoplesoft-record-field)     
-- [PeopleSoft User Look-Up](https://github.com/tshenolo/peoplesoft-user-lookup) 
+| [Query Search](https://tshenolo.gumroad.com/l/peoplesoft-query-search)                      | Searches and retrieves PeopleSoft query information.    |
+| [Base 64 Encode/Decode](https://github.com/tshenolo/peoplesoft-base64)                      | Encodes and decodes data in Base64 format.            |
+| [List/Download Files](https://tshenolo.gumroad.com/l/peoplesoft-file-list)                  | Lists and downloads files from a PeopleSoft server.   |
+| [File Manager](https://tshenolo.gumroad.com/l/peoplesoft-file-manager)                      | Manages files on a PeopleSoft server.                 |
+| [File Stream](https://github.com/tshenolo/peoplesoft-file-stream)                           | Streams files to and from a PeopleSoft server.        |
+| [File Upload](https://tshenolo.gumroad.com/l/peoplesoft-file-upload)                        | Uploads files to a PeopleSoft server.                 |
+| [Environment Variables](https://github.com/tshenolo/peoplesoft-env-variable)               | Retrieves PeopleSoft environment variables.            |
+| [PeopleSoft Component Navigation](https://tshenolo.gumroad.com/l/peoplesoft-component-nav) | Retrieves PeopleSoft navigation given the component name. |
+| [PeopleSoft Process Navigation](https://tshenolo.gumroad.com/l/peoplesoft-process-nav)     | Retrieves PeopleSoft navigation given the process name.   |
+| [PS Query SQL](https://tshenolo.gumroad.com/l/peoplesoft-query-sql)                         | Retrieves the SQL of a PeopleSoft PS Query.       |
+| [Record Fields](https://github.com/tshenolo/peoplesoft-record-field)                       | Retrieves record field information.                |
+| [PeopleSoft User Look-Up](https://github.com/tshenolo/peoplesoft-user-lookup)              | Looks up user information within PeopleSoft.          |
+ 
+
+
 
 ##### PHP
-- [Document Converter](https://github.com/tshenolo/document-converter)
+| [Document Converter](https://github.com/tshenolo/document-converter)                   | Converts documents between various formats.          |
 
 ##### HTML/JAVASCRIPT
-- [HTML String Functions](https://github.com/tshenolo/html-stringfunctions)
+| [HTML String Functions](https://github.com/tshenolo/html-stringfunctions)              | Provides utility functions for manipulating HTML strings. |
 
-##### CHROME
-- [Chrome Archive This](https://github.com/tshenolo/chrome-archive-this)
- 
+##### CHROME PLUGIN
+| [Chrome Archive This](https://github.com/tshenolo/chrome-archive-this)                 | Automatically prepends "https://archive.is/" to the URL of the current page |
+
 
 </details>
 
