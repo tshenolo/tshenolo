@@ -1,6 +1,6 @@
-#### 👋 Hi there, I'm Tshenolo Mos
+#### 👋 Hi there, I'm Tshenolo
 
-Integration Developer Sharing Knowledge Through Code, Blogs, and YouTube Videos.   
+Integration Developer Sharing Knowledge Through [Code](https://github.com/tshenolo?tab=repositories), [Blogs](https://medium.com/@tshenolomos), and [YouTube Videos](https://www.youtube.com/@tshenolo).   
 
 - ♂️ Pronouns: He/Him
 - 🎓 Currently learning **everything**
