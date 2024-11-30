@@ -61,7 +61,8 @@ Here are some of my latest videos where I share tech tips and tutorials.
 
 Here's a selection of projects that I have worked on over the years, grouped by category.
 
-##### PYTHON
+| **PYTHON**  |          |
+|-------------|----------|
 | [Flask WebP to PNG](https://github.com/tshenolo/flask-webp-to-png)               | Converts WebP images to PNG format.           |
 | [Flask PDF Merger](https://github.com/tshenolo/flask-pdf-merger)                 | Merges multiple PDF files into one.           |
 | [Flask PDF Splitter](https://github.com/tshenolo/flask-pdf-splitter)             | Splits PDF files into separate pages.         |
@@ -72,9 +73,7 @@ Here's a selection of projects that I have worked on over the years, grouped by 
 | [Flask CSV to MD](https://github.com/tshenolo/flask-csv-to-md)                   | Converts CSV data to Markdown format.         |
 | [Flask HTML to Excel](https://github.com/tshenolo/flask-html-to-excel)           | Converts HTML tables to Excel format.         |
 | [Flask CSV to JSON](https://github.com/tshenolo/flask-csv-to-json)               | Converts CSV data to JSON format.             |
-
-
-##### PEOPLESOFT
+| **PEOPLESOFT**  |          |
 | [Query Search](https://tshenolo.gumroad.com/l/peoplesoft-query-search)                      | Searches and retrieves PeopleSoft query information.    |
 | [Base 64 Encode/Decode](https://github.com/tshenolo/peoplesoft-base64)                      | Encodes and decodes data in Base64 format.            |
 | [List/Download Files](https://tshenolo.gumroad.com/l/peoplesoft-file-list)                  | Lists and downloads files from a PeopleSoft server.   |
@@ -87,17 +86,11 @@ Here's a selection of projects that I have worked on over the years, grouped by 
 | [PS Query SQL](https://tshenolo.gumroad.com/l/peoplesoft-query-sql)                         | Retrieves the SQL of a PeopleSoft PS Query.       |
 | [Record Fields](https://github.com/tshenolo/peoplesoft-record-field)                       | Retrieves record field information.                |
 | [PeopleSoft User Look-Up](https://github.com/tshenolo/peoplesoft-user-lookup)              | Looks up user information within PeopleSoft.          |
- 
-
-
-
-##### PHP
+| **PHP**  |          |
 | [Document Converter](https://github.com/tshenolo/document-converter)                   | Converts documents between various formats.          |
-
-##### HTML/JAVASCRIPT
+| **HTML/JAVASCRIPT**  |          |
 | [HTML String Functions](https://github.com/tshenolo/html-stringfunctions)              | Provides utility functions for manipulating HTML strings. |
-
-##### CHROME PLUGIN
+| **CHROME PLUGIN**  |          |
 | [Chrome Archive This](https://github.com/tshenolo/chrome-archive-this)                 | Automatically prepends "https://archive.is/" to the URL of the current page |
 
 
