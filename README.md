@@ -92,6 +92,7 @@ Here's a selection of projects that I have worked on over the years, grouped by 
 | [HTML String Functions](https://github.com/tshenolo/html-stringfunctions)              | Provides utility functions for manipulating HTML strings. |
 | **CHROME PLUGIN**  |          |
 | [Chrome Archive This](https://github.com/tshenolo/chrome-archive-this)                 | Automatically prepends "https://archive.is/" to the URL of the current page |
+| [Chrome Jira Details](https://github.com/tshenolo/chrome-jira-details)                 | Extract and manage Jira issue details, including title and description |
 
 
 </details>
