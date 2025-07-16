@@ -40,7 +40,7 @@ Feel free to connect with me on social media!
 
 </details>
 
-<details>
+<details open>
 <summary> 📺 YouTube </summary>
 
 Here are some of my latest videos where I share tech tips and tutorials.
