@@ -45,7 +45,12 @@ Feel free to connect with me on social media!
 
 Here are some of my latest videos where I share tech tips and tutorials.
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![Why Exposing MySQL with Docker Is a Bad Idea](https://ytcards.demolab.com/?id=sDeaARyHRWc&title=Why+Exposing+MySQL+with+Docker+Is+a+Bad+Idea&lang=en&timestamp=1766691768&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Why Exposing MySQL with Docker Is a Bad Idea")](https://www.youtube.com/shorts/sDeaARyHRWc)
+[![Never Run Out of Space on Linux Again!](https://ytcards.demolab.com/?id=OzWImZd8eyI&title=Never+Run+Out+of+Space+on+Linux+Again%21&lang=en&timestamp=1756006832&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Never Run Out of Space on Linux Again!")](https://www.youtube.com/shorts/OzWImZd8eyI)
+[![Run Custom Commands on Windows](https://ytcards.demolab.com/?id=re4FmHGIULg&title=Run+Custom+Commands+on%C2%A0Windows&lang=en&timestamp=1753634154&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Run Custom Commands on Windows")](https://www.youtube.com/shorts/re4FmHGIULg)
+[![How To Lock Your Files In Seconds With GPG!](https://ytcards.demolab.com/?id=dPIOZqV0TRQ&title=How+To+Lock+Your+Files+In+Seconds+With+GPG%21&lang=en&timestamp=1751771069&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "How To Lock Your Files In Seconds With GPG!")](https://www.youtube.com/shorts/dPIOZqV0TRQ)
+[![Automate Tasks with Cron in 60 Seconds](https://ytcards.demolab.com/?id=ZOnJjfkFaoA&title=Automate+Tasks+with+Cron+in+60+Seconds&lang=en&timestamp=1751160306&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Automate Tasks with Cron in 60 Seconds")](https://www.youtube.com/shorts/ZOnJjfkFaoA)
+[![Stop Hackers Fast with Automated Alerts](https://ytcards.demolab.com/?id=c6ory04EG2E&title=Stop+Hackers+Fast+with+Automated+Alerts&lang=en&timestamp=1748662230&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Stop Hackers Fast with Automated Alerts")](https://www.youtube.com/shorts/c6ory04EG2E)
 <!-- END YOUTUBE-CARDS -->
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@tshenolo?sub_confirmation=1)
 
